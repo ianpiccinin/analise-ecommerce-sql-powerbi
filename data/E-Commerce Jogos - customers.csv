@@ -1,0 +1,308 @@
+customer_id,customer_name,email,city,state,created_at
+1,Pedro Lima,pedro_lima@uol.com.br,São Paulo,SP,01/01/2018
+2,Giovanna Couto,giovanna.couto@hotmail.com,Rio de Janeiro,RJ,03/01/2018
+3,Raíssa Ramos,raissaramos@bol.com.br,Belo Horizonte,MG,05/01/2018
+4,Lucas Ferreira,lucas_ferreira@gmail.com,São Paulo,SP,10/01/2018
+5,Mariana Alves,mariana.alves00@outlook.com,Brasília,DF,10/01/2018
+6,Bruno Santos,bruno.santos@gmail.com,Rio de Janeiro,RJ,18/01/2018
+7,Camila Rocha,camila_rocha@hotmail.com,Salvador,BA,25/01/2018
+8,Rafael Pereira,rafael.pereira@outlook.com,São Paulo,SP,02/02/2018
+9,Juliana Martins,juliana.martins@gmail.com,Fortaleza,CE,14/02/2018
+10,Thiago Costa,thiago_costa@uol.com.br,Belo Horizonte,MG,01/03/2018
+11,Beatriz Nogueira,beatriz.nogueira@gmail.com,Recife,PE,15/03/2018
+12,Felipe Azevedo,felipe_azevedo@hotmail.com,Rio de Janeiro,RJ,15/03/2018
+13,Larissa Pacheco,larissa.pacheco@outlook.com,Porto Alegre,RS,02/04/2018
+14,Matheus Ribeiro,matheus_ribeiro@gmail.com,São Paulo,SP,20/04/2018
+15,Ana Paula Teixeira,ana.teixeira@bol.com.br,Curitiba,PR,05/05/2018
+16,Daniel Farias,daniel_farias@gmail.com,Brasília,DF,18/06/2018
+17,Renata Guedes,renata.guedes@hotmail.com,Manaus,AM,18/06/2018
+18,Vinícius Barros,vinicius_barros@outlook.com,São Paulo,SP,03/08/2018
+19,Patrícia Moreira,patricia.moreira@gmail.com,Belém,PA,10/10/2018
+20,Eduardo Freitas,eduardo.freitas@uol.com.br,Rio de Janeiro,RJ,22/12/2018
+21,Carolina Batista,carolina_batista@gmail.com,Goiânia,GO,05/01/2019
+22,Gustavo Rangel,gustavo_rangel@hotmail.com,Belo Horizonte,MG,05/01/2019
+23,Natália Cunha,natalia.cunha@outlook.com,Campinas,SP,18/01/2019
+24,Leonardo Macedo,leonardo.macedo@gmail.com,São Paulo,SP,02/02/2019
+25,Fernanda Lopes,fernanda.lopes@bol.com.br,Guarulhos,SP,14/02/2019
+26,Igor Pinheiro,igor_pinheiro@gmail.com,Salvador,BA,01/03/2019
+27,Aline Fonseca,aline.fonseca@hotmail.com,Osasco,SP,15/03/2019
+28,Diego Amaral,diego_amaral@outlook.com,Rio de Janeiro,RJ,28/03/2019
+29,Vanessa Tavares,vanessa.tavares@gmail.com,Santos,SP,10/04/2019
+30,Rodrigo Monteiro,rodrigo_monteiro@uol.com.br,São Paulo,SP,22/04/2019
+31,Paula Siqueira,paula.siqueira@gmail.com,São Bernardo do Campo,SP,05/05/2019
+32,André Peixoto,andre_peixoto@hotmail.com,Belo Horizonte,MG,19/05/2019
+33,Tatiane Borges,tatiane.borges@outlook.com,Santo André,SP,02/06/2019
+34,Caio Viana,caio_viana@gmail.com,Brasília,DF,16/06/2019
+35,Priscila Lemos,priscila.lemos@bol.com.br,São Caetano do Sul,SP,01/07/2019
+36,Henrique Neves,henrique.neves@gmail.com,Rio de Janeiro,RJ,15/07/2019
+37,Bianca Torres,bianca_torres@hotmail.com,Diadema,SP,30/07/2019
+38,Alexandre Campos,alexandre.campos@outlook.com,São Paulo,SP,12/08/2019
+39,Débora Assis,debora_assis@gmail.com,Mauá,SP,26/08/2019
+40,Bruno Falcão,bruno.falcao@uol.com.br,Fortaleza,CE,10/09/2019
+41,Michele Araújo,michele_araujo@gmail.com,Ribeirão Preto,SP,24/09/2019
+42,Samuel Rezende,samuel.rezende@hotmail.com,São Paulo,SP,08/10/2019
+43,Letícia Paiva,leticia.paiva@outlook.com,Sorocaba,SP,22/10/2019
+44,Victor Godoy,victor_godoy@gmail.com,Belo Horizonte,MG,10/11/2019
+45,Flávia Drumond,flavia.drumond@bol.com.br,Niterói,RJ,20/12/2019
+46,João Guilherme Pires,joaogpires@gmail.com,Rio de Janeiro,RJ,03/01/2020
+47,Amanda Queiroz,amanda_queiroz@hotmail.com,Duque de Caxias,RJ,03/01/2020
+48,Wesley Antunes,wesley.antunes@outlook.com,São Paulo,SP,15/01/2020
+49,Sabrina Meireles,sabrina.meireles@gmail.com,Nova Iguaçu,RJ,28/01/2020
+50,Ricardo Beltrão,ricardo_beltrao@uol.com.br,Brasília,DF,10/02/2020
+51,Isabela Rios,isabela.rios@gmail.com,São Gonçalo,RJ,25/02/2020
+52,Murilo Dantas,murilo_dantas@hotmail.com,Rio de Janeiro,RJ,05/03/2020
+53,Elaine Guimarães,elaine_guimaraes@outlook.com,Florianópolis,SC,18/03/2020
+54,Fábio Motta,fabio_motta@gmail.com,São Paulo,SP,30/03/2020
+55,Cíntia Karam,cintia.karam@bol.com.br,Joinville,SC,10/04/2020
+56,Diego Vasconcelos,diego.vasconcelos@gmail.com,Belo Horizonte,MG,22/04/2020
+57,Lívia Albuquerque,livia_albuquerque@hotmail.com,Blumenau,SC,05/05/2020
+58,Otávio Serpa,otavio_serpa@outlook.com,Salvador,BA,20/05/2020
+59,Monique Bittencourt,monique.bittencourt@gmail.com,Itajaí,SC,02/06/2020
+60,Jonas Fraga,jonas_fraga@uol.com.br,Rio de Janeiro,RJ,15/06/2020
+61,Tainá Cabral,taina.cabral@gmail.com,Balneário Camboriú,SC,30/06/2020
+62,Ruan Caldeira,ruan_caldeira@hotmail.com,São Paulo,SP,12/07/2020
+63,Simone Lacerda,simone.lacerda@outlook.com,Vitória,ES,26/07/2020
+64,Arthur Gouveia,arthur_gouveia@gmail.com,Belo Horizonte,MG,08/08/2020
+65,Nayara Figueiredo,nayara.figueiredo@bol.com.br,Vila Velha,ES,22/08/2020
+66,Paulo Henrique Vidal,paulohenrique_vidal@gmail.com,Brasília,DF,05/09/2020
+67,Cristiane Muniz,cristiane.muniz@hotmail.com,Cariacica,ES,19/09/2020
+68,Renan Brum,renan_brum@outlook.com,Rio de Janeiro,RJ,01/10/2020
+69,Kelly Afonso,kelly.afonso@gmail.com,Serra,ES,15/10/2020
+70,Marcelo Pimentel,marcelo_pimentel@uol.com.br,São Paulo,SP,30/10/2020
+71,Jéssica Noronha,jessica.noronha@gmail.com,Campo Grande,MS,12/11/2020
+72,Alan Silveira,alan_silveira@hotmail.com,Fortaleza,CE,25/11/2020
+73,Brenda Avelar,brenda.avelar@outlook.com,Cuiabá,MT,05/12/2020
+74,Hugo Klinger,hugo.klinger@gmail.com,Belo Horizonte,MG,15/12/2020
+75,Mayara Paes,mayara.paes@bol.com.br,Várzea Grande,MT,28/12/2020
+76,Thiago Rezende,thiago_rezende@gmail.com,Rio de Janeiro,RJ,05/01/2021
+77,Viviane Trindade,viviane.trindade@hotmail.com,São Luís,MA,05/01/2021
+78,Danilo Sá,danilo_sa@outlook.com,São Paulo,SP,18/01/2021
+79,Evelyn Barcellos,evelyn.barcellos@gmail.com,Maceió,AL,01/02/2021
+80,Rafael Seabra,rafael.seabra@uol.com.br,Brasília,DF,14/02/2021
+81,Luana Dornelles,luana.dornelles@gmail.com,Natal,RN,01/03/2021
+82,Cristiano Pacheco,cristiano_pacheco@hotmail.com,Rio de Janeiro,RJ,15/03/2021
+83,Milena Fontes,milena.fontes@outlook.com,João Pessoa,PB,28/03/2021
+84,José Ricardo Lins,jose.lins@gmail.com,São Paulo,SP,10/04/2021
+85,Carla Miranda,carla.miranda@bol.com.br,Aracaju,SE,22/04/2021
+86,Felipe Prado,felipe_prado@gmail.com,Belo Horizonte,MG,05/05/2021
+87,Sueli Mattos,sueli.mattos@hotmail.com,Teresina,PI,19/05/2021
+88,Nathan Moura,nathan_moura@outlook.com,Salvador,BA,02/06/2021
+89,Rita Cavalcante,rita.cavalcante@gmail.com,Palmas,TO,16/06/2021
+90,Bruno Salgado,bruno_salgado@uol.com.br,Rio de Janeiro,RJ,30/06/2021
+91,Yasmin Coelho,yasmin.coelho@gmail.com,Porto Velho,RO,12/07/2021
+92,Jeferson Loyola,jeferson_loyola@hotmail.com,São Paulo,SP,26/07/2021
+93,Graziella Pupo,graziella.pupo@outlook.com,Rio Branco,AC,08/08/2021
+94,Alex Sandro Lacerda,alexlacerda@gmail.com,Belo Horizonte,MG,22/08/2021
+95,Marcos Vinícius Melo,marcos.melo@bol.com.br,Boa Vista,RR,05/09/2021
+96,Elisa Portella,elisa.portella@gmail.com,Brasília,DF,19/09/2021
+97,Pedro Henrique Braga,pedro_braga@hotmail.com,Macapá,AP,01/10/2021
+98,Tatiana Malta,tatiana.malta@outlook.com,Rio de Janeiro,RJ,15/10/2021
+99,Diego Lacerda,diego_lacerda@gmail.com,Uberlândia,MG,30/10/2021
+100,Julio Cezar Reis,julio.reis@uol.com.br,São Paulo,SP,12/11/2021
+101,Isadora Furtado,isadora.furtado@gmail.com,Uberaba,MG,25/11/2021
+102,Fernando Loureiro,fernando.loureiro@hotmail.com,Belo Horizonte,MG,05/12/2021
+103,Paola Simões,paola.simoes@outlook.com,Juiz de Fora,MG,15/12/2021
+104,William Coutinho,william.coutinho@gmail.com,Salvador,BA,20/12/2021
+105,Cássia Ventura,cassia.ventura@bol.com.br,Contagem,MG,20/12/2021
+106,Leandro Póvoa,leandro_povoa@gmail.com,Rio de Janeiro,RJ,22/12/2021
+107,Nathalia Peres,nathalia.peres@hotmail.com,Betim,MG,24/12/2021
+108,João Victor Leite,joaovleite@outlook.com,São Paulo,SP,26/12/2021
+109,Melissa Brandão,melissa.brandao@gmail.com,Piracicaba,SP,28/12/2021
+110,Rômulo Santana,romulo.santana@uol.com.br,Brasília,DF,30/12/2021
+111,Adriana Paixão,adriana.paixao@gmail.com,Limeira,SP,05/01/2022
+112,Ivan Bortolini,ivan.bortolini@hotmail.com,Belo Horizonte,MG,05/01/2022
+113,Karla Rezende,karla.rezende@outlook.com,Americana,SP,18/01/2022
+114,Cristian Guarini,cristian.guarini@gmail.com,Rio de Janeiro,RJ,01/02/2022
+115,Paloma Bessa,paloma.bessa@bol.com.br,Sumaré,SP,14/02/2022
+116,Sidney Falcetti,sidney.falcetti@gmail.com,São Paulo,SP,01/03/2022
+117,Thais Pontalti,thais.pontalti@hotmail.com,Hortolândia,SP,15/3/2022
+118,Brayan Oliveira,brayan.oliveira@outlook.com,Salvador,BA,28/3/2022
+119,Helena Rangel,helena.rangel@gmail.com,Indaiatuba,SP,10/4/2022
+120,Douglas Fróes,douglas_froes@uol.com.br,Belo Horizonte,MG,22/4/2022
+121,Joice Valentim,joice.valentim@gmail.com,Jundiaí,SP,5/5/2022
+122,Patrick Menezes,patrick.menezes@hotmail.com,Rio de Janeiro,RJ,19/5/2022
+123,Daniela Branquinho,daniela.branquinho@outlook.com,Barueri,SP,2/6/2022
+124,Eder Maluf,eder.maluf@gmail.com,São Paulo,SP,16/6/2022
+125,Luiz Fernando Cunha,luiz.cunha@bol.com.br,Carapicuíba,SP,30/06/2022
+126,Fabiana Pontes,fabiana.pontes@gmail.com,Brasília,DF,12/07/2022
+127,Caetano Abreu,caetano.abreu@hotmail.com,Itapevi,SP,26/07/2022
+128,Rebeca Silvino,rebeca.silvino@outlook.com,Belo Horizonte,MG,8/8/2022
+129,Jorge Amado Neto,jorge.neto@gmail.com,Cotia,SP,22/8/2022
+130,Marlene Batista,marlene.batista@uol.com.br,Rio de Janeiro,RJ,5/9/2022
+131,Tiago Corrêa,tiago.correa@gmail.com,Taboão da Serra,SP,19/9/2022
+132,Noemi Kossatz,noemi.kossatz@hotmail.com,São Paulo,SP,1/10/2022
+133,Bruno Kappel,bruno.kappel@outlook.com,Embu das Artes,SP,15/10/2022
+134,Silvana Pires,silvana.pires@gmail.com,Salvador,BA,30/10/2022
+135,Rafael Lobato,rafael.lobato@bol.com.br,Mogi das Cruzes,SP,12/11/2022
+136,Kellyn Andrade,kellyn.andrade@gmail.com,Belo Horizonte,MG,25/11/2022
+137,Jean Morel,jean.morel@hotmail.com,Suzano,SP,05/12/2022
+138,Ariane Medeiros,ariane.medeiros@outlook.com,Rio de Janeiro,RJ,15/12/2022
+139,Felix Arantes,felix.arantes@gmail.com,Poá,SP,18/12/2022
+140,Joana Lins,joana.lins@uol.com.br,São Paulo,SP,18/12/2022
+141,Maurício Dallagnol,mauricio.dallagnol@gmail.com,Ferraz de Vasconcelos,SP,20/12/2022
+142,Lorena Aguiar,lorena.aguiar@hotmail.com,Brasília,DF,21/12/2022
+143,Caio Benevides,caio.benevides@gmail.com,São Paulo,SP,22/12/2022
+144,Marília Pontes,marilia.pontes@outlook.com,Rio de Janeiro,RJ,23/12/2022
+145,Iuri Bastos,iuri_bastos@hotmail.com,Belo Horizonte,MG,24/12/2022
+146,Vivian Rosa,vivian.rosa@gmail.com,São Paulo,SP,26/12/2022
+147,Sandro Teodoro,sandro.teodoro@uol.com.br,Salvador,BA,27/12/2022
+148,Bárbara Teles,barbara.teles@gmail.com,Rio de Janeiro,RJ,28/12/2022
+149,Vitor Ramalho,vitor_ramalho@outlook.com,Brasília,DF,29/12/2022
+150,Cristina Farias,cristina.farias@gmail.com,São Paulo,SP,30/12/2022
+151,Nelson Duarte,nelson.duarte@bol.com.br,Fortaleza,CE,05/01/2023
+152,Bruna Viotti,bruna.viotti@gmail.com,Belo Horizonte,MG,05/01/2023
+153,Alisson Trigo,alisson_trigo@hotmail.com,Recife,PE,18/01/2023
+154,Clarice Mota,clarice.mota@outlook.com,Rio de Janeiro,RJ,01/02/2023
+155,Rodnei Machado,rodnei.machado@gmail.com,Campinas,SP,14/02/2023
+156,Paulo César Reis,paulo.reis@uol.com.br,São Paulo,SP,01/03/2023
+157,Tatiane Amaral,tatiane.amaral@gmail.com,Curitiba,PR,15/03/2023
+158,Júlio Fontoura,julio_fontoura@outlook.com,Brasília,DF,28/03/2023
+159,Érica Saleme,erica.saleme@gmail.com,Manaus,AM,10/04/2023
+160,Lucas Bernardes,lucas.bernardes@bol.com.br,Belo Horizonte,MG,22/04/2023
+161,Renata Alcântara,renata.alcantara@gmail.com,Belém,PA,05/05/2023
+162,Rafael Guizzo,rafael.guizzo@outlook.com,Rio de Janeiro,RJ,19/05/2023
+163,Silvia Pinho,silvia.pinho@gmail.com,Goiânia,GO,02/06/2023
+164,Jonatan Kessler,jonatan.kessler@uol.com.br,São Paulo,SP,16/06/2023
+165,Luiza Gatti,luiza.gatti@gmail.com,Guarulhos,SP,30/06/2023
+166,Sérgio Bonfim,sergio.bonfim@outlook.com,Salvador,BA,12/07/2023
+167,Eliane Prado,eliane.prado@gmail.com,Osasco,SP,26/07/2023
+168,João Paulo Rangel,joaopaulo_rangel@bol.com.br,Belo Horizonte,MG,08/08/2023
+169,Déborah Matos,deborah.matos@gmail.com,Santos,SP,22/08/2023
+170,Nilton Araujo,nilton.araujo@outlook.com,Rio de Janeiro,RJ,05/09/2023
+171,Patricia Villela,patricia.villela@gmail.com,São Bernardo do Campo,SP,19/09/2023
+172,Fabrício Marcon,fabricio.marcon@uol.com.br,São Paulo,SP,01/10/2023
+173,Carine Boldo,carine.boldo@gmail.com,Santo André,SP,15/10/2023
+174,Vinicius Malheiros,vinicius.malheiros@outlook.com,Brasília,DF,30/10/2023
+175,Ana Luísa Barcellos,ana.barcellos@gmail.com,São Caetano do Sul,SP,12/11/2023
+176,Cleber Tadini,cleber.tadini@bol.com.br,Belo Horizonte,MG,25/11/2023
+177,Rayssa Lemos,rayssa.lemos@gmail.com,Diadema,SP,05/12/2023
+178,Daniele França,daniele.franca@outlook.com,Rio de Janeiro,RJ,15/12/2023
+179,Alex Pohl,alex.pohl@gmail.com,Mauá,SP,18/12/2023
+180,Cátia Guedes,catia.guedes@uol.com.br,São Paulo,SP,18/12/2023
+181,Márcio Kuntz,marcio.kuntz@gmail.com,Ribeirão Preto,SP,19/12/2023
+182,Julio Henrique Costa,juliohcosta@outlook.com,Salvador,BA,20/12/2023
+183,Franciele Schmitz,franciele.schmitz@gmail.com,Sorocaba,SP,21/12/2023
+184,Edson Lazzari,edson.lazzari@bol.com.br,Belo Horizonte,MG,22/12/2023
+185,Marcela Guarani,marcela.guarani@gmail.com,Niterói,RJ,23/12/2023
+186,Robson Figueira,robson.figueira@outlook.com,Rio de Janeiro,RJ,24/12/2023
+187,Iara Mendonça,iara.mendonca@gmail.com,Duque de Caxias,RJ,25/12/2023
+188,Cristopher Klein,cristopher.klein@uol.com.br,São Paulo,SP,26/12/2023
+189,Tereza Moraes,tereza.moraes@gmail.com,Nova Iguaçu,RJ,27/12/2023
+190,Luciano Beraldo,luciano.beraldo@outlook.com,Brasília,DF,28/12/2023
+191,Pâmela Nishi,pamela.nishi@gmail.com,São Gonçalo,RJ,29/12/2023
+192,Rogério Zucchi,rogerio.zucchi@bol.com.br,Belo Horizonte,MG,30/12/2023
+193,Mônica Santoro,monica.santoro@gmail.com,Florianópolis,SC,30/12/2023
+194,Breno Valença,breno.valenca@outlook.com,Rio de Janeiro,RJ,31/12/2023
+195,Letícia Ramires,leticia.ramires@gmail.com,Joinville,SC,03/01/2024
+196,Paulo Vítor Rocha,paulovrocha@uol.com.br,São Paulo,SP,03/01/2024
+197,Adriano Seixas,adriano.seixas@gmail.com,Blumenau,SC,10/01/2024
+198,Soraia Nóbrega,soraia.nobrega@outlook.com,Salvador,BA,18/01/2024
+199,Kelvin Barone,kelvin.barone@gmail.com,Itajaí,SC,25/01/2024
+200,Marta Leoni,marta.leoni@bol.com.br,Belo Horizonte,MG,01/02/2024
+201,Felipe Scarpelli,felipe.scarpelli@gmail.com,Balneário Camboriú,SC,14/02/2024
+202,Ingrid Rossetti,ingrid.rossetti@outlook.com,Rio de Janeiro,RJ,01/03/2024
+203,Jefferson Malafaia,jefferson.malafaia@gmail.com,Vitória,ES,15/03/2024
+204,Caroline Góis,caroline.gois@uol.com.br,São Paulo,SP,28/03/2024
+205,Anderson Saboia,anderson.saboia@gmail.com,Vila Velha,ES,10/04/2024
+206,Rita Louzada,rita.louzada@outlook.com,Brasília,DF,14/04/2024
+207,Cristian Dourado,cristian.dourado@gmail.com,Cariacica,ES,21/04/2024
+208,Michelli Frossard,michelli.frossard@bol.com.br,Belo Horizonte,MG,22/04/2024
+209,Darlan Nunes,darlan.nunes@gmail.com,Serra,ES,05/05/2024
+210,Kelly Paredes,kelly.paredes@outlook.com,Rio de Janeiro,RJ,19/05/2024
+211,João Batista Franco,joaobfranco@gmail.com,Campo Grande,MS,26/05/2024
+212,Aparecida Lopes,aparecida.lopes@uol.com.br,São Paulo,SP,02/06/2024
+213,Murilo Toscano,murilo.toscano@gmail.com,Cuiabá,MT,11/06/2024
+214,Natasha Belmonte,natasha.belmonte@outlook.com,Salvador,BA,16/06/2024
+215,Eduardo Salinas,eduardo.salinas@gmail.com,Várzea Grande,MT,22/06/2024
+216,Simara Peçanha,simara.pecanha@bol.com.br,Belo Horizonte,MG,30/06/2024
+217,Alan Freire,alan.freire@gmail.com,São Luís,MA,12/07/2024
+218,Dayane Coitinho,dayane.coitinho@outlook.com,Rio de Janeiro,RJ,26/07/2024
+219,Ricardo Paludo,ricardo.paludo@gmail.com,Maceió,AL,08/08/2024
+220,Gisele Bernardini,gisele.bernardini@uol.com.br,São Paulo,SP,22/08/2024
+221,Bruno Zanelato,bruno.zanelato@gmail.com,Natal,RN,05/09/2024
+222,Paula Kitahara,paula.kitahara@outlook.com,Brasília,DF,19/09/2024
+223,Matheus Távora,matheus.tavora@gmail.com,João Pessoa,PB,1/10/2024
+224,Elisângela Rocha,elisangela.rocha@bol.com.br,Belo Horizonte,MG,15/10/2024
+225,Filipe Assumpção,filipe.assumpcao@gmail.com,Aracaju,SE,30/10/2024
+226,Rayssa Montenegro,rayssa.montenegro@outlook.com,Rio de Janeiro,RJ,12/11/2024
+227,André Quirino,andre.quirino@gmail.com,Teresina,PI,25/11/2024
+228,Lilian Frota,lilian.frota@uol.com.br,São Paulo,SP,5/12/2024
+229,Rodrigo Sales,rodrigo.sales@gmail.com,Palmas,TO,15/12/2024
+230,Amanda Bertolucci,amanda.bertolucci@outlook.com,Salvador,BA,18/12/2024
+231,Cristiano Lobo,cristiano.lobo@gmail.com,Porto Velho,RO,18/12/2024
+232,Patricia Furlan,patricia.furlan@bol.com.br,Belo Horizonte,MG,19/12/2024
+233,Diego Peretti,diego.peretti@gmail.com,Rio Branco,AC,20/12/2024
+234,Luciane Portes,luciane.portes@outlook.com,Rio de Janeiro,RJ,21/12/2024
+235,Leonardo Brighenti,leonardo.brighenti@gmail.com,Boa Vista,RR,22/12/2024
+236,Rafaela Sampaio,rafaela.sampaio@uol.com.br,São Paulo,SP,23/12/2024
+237,Thierry Bastien,thierry.bastien@gmail.com,Macapá,AP,24/12/2024
+238,Marcos Pellegrini,marcos.pellegrini@outlook.com,Brasília,DF,25/12/2024
+239,Vera Lúcia Azevedo,vera.azevedo@gmail.com,Uberlândia,MG,26/12/2024
+240,João Lucas Ferreira,joaolucas.ferreira@bol.com.br,Belo Horizonte,MG,27/12/2024
+241,Gabriela Matias,gabriela.matias@gmail.com,Uberaba,MG,28/12/2024
+242,César Tolentino,cesar.tolentino@outlook.com,Rio de Janeiro,RJ,29/12/2024
+243,Rosana Pezzin,rosana.pezzin@gmail.com,Juiz de Fora,MG,30/12/2024
+244,Samuel Antolin,samuel.antolin@uol.com.br,São Paulo,SP,02/01/2025
+245,Clarissa Pacheco,clarissa.pacheco@gmail.com,Contagem,MG,02/01/2025
+246,Rafael Cavalli,rafael.cavalli@outlook.com,Salvador,BA,05/01/2025
+247,Maria Eduarda Lopes,mariaeduarda.lopes@gmail.com,Betim,MG,10/01/2025
+248,Fábio Cordeiro,fabio.cordeiro@bol.com.br,Belo Horizonte,MG,15/01/2025
+249,Ana Carolina Reis,ana.reis@gmail.com,Piracicaba,SP,26/01/2025
+250,Gustavo Maciel,gustavo.maciel@outlook.com,Rio de Janeiro,RJ,01/02/2025
+251,Priscila Valente,priscila.valente@gmail.com,Limeira,SP,14/02/2025
+252,Bruno Karam,bruno.karam@uol.com.br,São Paulo,SP,18/02/2025
+253,Tatiana Fuchs,tatiana.fuchs@gmail.com,Americana,SP,20/02/2025
+254,Daniel Rizzi,daniel.rizzi@outlook.com,Brasília,DF,01/03/2025
+255,Lívia Moretti,livia.moretti@gmail.com,Sumaré,SP,15/03/2025
+256,Caio Magalhães,caio.magalhaes@bol.com.br,Belo Horizonte,MG,21/03/2025
+257,Fernanda Belotti,fernanda.belotti@gmail.com,Hortolândia,SP,28/03/2025
+258,Victor Lamas,victor.lamas@outlook.com,Rio de Janeiro,RJ,10/04/2025
+259,Elaine Ribeiro,elaine.ribeiro@gmail.com,Indaiatuba,SP,22/04/2025
+260,Rodrigo Mattedi,rodrigo.mattedi@uol.com.br,São Paulo,SP,02/04/2025
+261,Juliana Santini,juliana.santini@gmail.com,Jundiaí,SP,06/04/2025
+262,Paulo Afonso Costa,pauloacosta@outlook.com,Salvador,BA,10/04/2025
+263,Simone Karam,simone.karam@gmail.com,Barueri,SP,22/04/2025
+264,Renato Bellini,renato.bellini@bol.com.br,Belo Horizonte,MG,05/05/2025
+265,Beatriz Toscano,beatriz.toscano@gmail.com,Carapicuíba,SP,05/05/2025
+266,Alexandre Pugliese,alexandre.pugliese@outlook.com,Rio de Janeiro,RJ,06/05/2025
+267,Renata Maffei,renata.maffei@gmail.com,Itapevi,SP,10/05/2025
+268,Igor Zanella,igor.zanella@uol.com.br,São Paulo,SP,14/05/2025
+269,Cecília Faria,cecilia.faria@gmail.com,Cotia,SP,19/05/2025
+270,Douglas Pitta,douglas.pitta@outlook.com,Brasília,DF,02/06/2025
+271,Patrícia Lobo,patricia.lobo@gmail.com,Taboão da Serra,SP,16/06/2025
+272,Henrique Venturini,henrique.venturini@bol.com.br,Belo Horizonte,MG,21/06/2025
+273,Aline Petrucci,aline.petrucci@gmail.com,Embu das Artes,SP,24/06/2025
+274,Felipe Pavan,felipe.pavan@outlook.com,Rio de Janeiro,RJ,30/06/2025
+275,Natália Morais,natalia.morais@gmail.com,Mogi das Cruzes,SP,12/07/2025
+276,Thiago Longo,thiago.longo@uol.com.br,São Paulo,SP,26/07/2025
+277,Bianca Ferraz,bianca.ferraz@gmail.com,Suzano,SP,08/08/2025
+278,João Matheus Cunha,joaomatheus.cunha@outlook.com,Salvador,BA,22/08/2025
+279,Larissa Spina,larissa.spina@gmail.com,Poá,SP,05/09/2025
+280,Lucas Peñaranda,lucas.penaranda@bol.com.br,Belo Horizonte,MG,19/09/2025
+281,Vanessa Drummond,vanessa.drummond@gmail.com,Ferraz de Vasconcelos,SP,01/10/2025
+282,Marcio Cestari,marcio.cestari@outlook.com,Rio de Janeiro,RJ,15/10/2025
+283,Camila Nardini,camila.nardini@gmail.com,São Paulo,SP,30/10/2025
+284,Eduardo Bellotto,eduardo.bellotto@uol.com.br,Rio de Janeiro,RJ,12/11/2025
+285,Daniela Motta,daniela.motta@gmail.com,Belo Horizonte,MG,25/11/2025
+286,André Mion,andre.mion@outlook.com,Brasília,DF,05/12/2025
+287,Rita Paulino,rita.paulino@gmail.com,São Paulo,SP,10/12/2025
+288,Ruan Teodoro,ruan.teodoro@bol.com.br,Rio de Janeiro,RJ,12/12/2025
+289,Bruna Galli,bruna.galli@gmail.com,Salvador,BA,15/12/2025
+290,Levi Campos,levi.campos@outlook.com,Ponta Porã,MS,15/12/2025
+291,Sônia Bastos,sonia.bastos@gmail.com,São Paulo,SP,20/12/2025
+292,Renan Telles,renan.telles@uol.com.br,Bauru,SP,21/12/2025
+293,Marina Lobão,marina.lobao@gmail.com,Ilhabela,SP,22/12/2025
+294,Cristovão Ribeiro,cristovao.ribeiro@outlook.com,Mauá,SP,23/12/2025
+295,Elisa Pontual,elisa.pontual@gmail.com,São Paulo,SP,24/12/2025
+296,Caio Rangel,caio.rangel@bol.com.br,Belo Horizonte,MG,26/12/2025
+297,Nicole Dantas,nicole.dantas@gmail.com,Santo André,SP,27/12/2025
+298,Sandro Villani,sandro.villani@outlook.com,Conselheiro Lafaiete,MG,28/12/2025
+299,Mirela Bortolotto,mirela.bortolotto@gmail.com,São Bernardo do Campo,SP,29/12/2025
+300,Rodrigo Furlani,rodrigo.furlani@uol.com.br,Rio de Janeiro,RJ,30/12/2025
+301,Patricia Diniz,patricia.diniz@gmail.com,Belo Horizonte,MG,31/12/2025
+302,Julio Barone,julio.barone@outlook.com,Brasília,DF,1/1/2026
+303,Aline Freitas,aline.freitas@gmail.com,São Paulo,SP,5/1/2026
+304,Vinicius Sarmento,vinicius.sarmento@bol.com.br,Rio de Janeiro,RJ,10/1/2026
+305,Carla Rubim,carla.rubim@gmail.com,Salvador,BA,15/1/2026
+306,Hélio Bezerra,helio.bezerra@outlook.com,São Paulo,SP,22/01/2026
+307,Letícia Guimarães,leticia.guimaraes@gmail.com,São Paulo,SP,28/01/2026

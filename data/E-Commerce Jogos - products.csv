@@ -1,0 +1,51 @@
+product_id,product_name,category,price,cost
+1,GTA V,Playstation 5,89,50
+2,GTA V,Xbox,89,40
+3,GTA V,Nintendo Switch,119,100
+4,Red Dead Redemption 2,Playstation 5,89,50
+5,Red Dead Redemption 2,Xbox,89,40
+6,Red Dead Redemption 2,Nintendo Switch,119,100
+7,The Witcher 3,Playstation 5,49,50
+8,The Witcher 3,Xbox,49,40
+9,The Witcher 3,Nintendo Switch,69,100
+10,EA Sports FC 26,Playstation 5,189,50
+11,EA Sports FC 26,Xbox,189,40
+12,EA Sports FC 26,Nintendo Switch,219,100
+13,Fortnite,Playstation 5,49,50
+14,Fortnite,Xbox,49,40
+15,Fortnite,Nintendo Switch,69,100
+16,The Last of Us,Playstation 5,109,50
+17,God of War (2018),Playstation 5,119,50
+18,God of War Ragnarok,Playstation 5,149,50
+19,Spider-Man,Playstation 5,149,50
+20,Spider-Man: Miles Morales,Playstation 5,199,50
+21,Spider-Man 2,Playstation 5,299,50
+22,Horizon Zero Dawn,Playstation 5,169,50
+23,Horizon Forbidden West,Playstation 5,269,50
+24,Uncharted 4: A Thief’s End,Playstation 5,209,50
+25,Bloodborne,Playstation 5,209,50
+26,Ghost of Tsushima,Playstation 5,229,50
+27,Gran Turismo 7,Playstation 5,199,50
+28,Halo: The Master Chief Collection,Xbox,499,40
+29,Halo Infinite,Xbox,199,40
+30,Forza Horizon 4,Xbox,159,40
+31,Forza Horizon 5,Xbox,299,40
+32,Forza Motorsport,Xbox,259,40
+33,Gears 5,Xbox,219,40
+34,Starfield,Xbox,199,40
+35,Sea of Thieves,Xbox,119,40
+36,Hi-Fi Rush,Xbox,99,40
+37,Microsoft Flight Simulator,Xbox,99,40
+38,The Legend of Zelda: Breath of the Wild,Nintendo Switch,349,100
+39,The Legend of Zelda: Tears of the Kingdom,Nintendo Switch,399,100
+40,Super Mario Odyssey,Nintendo Switch,399,100
+41,Mario Kart 8 Deluxe,Nintendo Switch,399,100
+42,Super Smash Bros. Ultimate,Nintendo Switch,349,100
+43,Animal Crossing: New Horizons,Nintendo Switch,249,100
+44,Pokémon Scarlet,Nintendo Switch,359,100
+45,Pokémon Violet,Nintendo Switch,359,100
+46,Pokémon Legends: Arceus,Nintendo Switch,399,100
+47,Splatoon 2,Nintendo Switch,249,100
+48,Splatoon 3,Nintendo Switch,249,100
+49,Luigi’s Mansion 3,Nintendo Switch,299,100
+50,Stardew Valley,Nintendo Switch,199,100
